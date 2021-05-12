@@ -1,0 +1,3 @@
+# Part 2. Model
+
+This part is the implementation of the DynGCREM model. The model has 2 sections. First, the graph convolution network layer extracts the structure information of each dynamic graph snapshot, and then the Long Short Term Memory autoencoder network in the recurrent neural network layer learns the temporal information of the dynamic graph. Eventually, the model outputs embeddings for nodes in a dynamic graph.
