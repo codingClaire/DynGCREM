@@ -1,0 +1,3 @@
+# Part 3 Experiment
+This part contains the source codes of every experiment in my final article except the first experiment which makes a comparison of the DynGCREM model and other dynamic graph node embedding methods. The implementation of the comparison methods is in  [CTGCN](https://github.com/jhljx/CTGCN) repository in Github. I change the input form and set the hyper-parameters to train the models and complete the comparison experiment.
+The implementation of the following experiments is in this part, however, it is repetitive and the brief implementation can be found in part 2.
